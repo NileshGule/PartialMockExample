@@ -1,0 +1,6 @@
+E:\Nilesh\Projects\PartialMocksExample\PartialMocksExample\bin\Debug\PartialMocksExample.dll
+E:\Nilesh\Projects\PartialMocksExample\PartialMocksExample\bin\Debug\PartialMocksExample.pdb
+E:\Nilesh\Projects\PartialMocksExample\PartialMocksExample\bin\Debug\Rhino.Mocks.dll
+E:\Nilesh\Projects\PartialMocksExample\PartialMocksExample\obj\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\PartialMocksExample\PartialMocksExample\obj\Debug\PartialMocksExample.dll
+E:\Nilesh\Projects\PartialMocksExample\PartialMocksExample\obj\Debug\PartialMocksExample.pdb

@@ -1,0 +1,133 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:Customer.cs" caret="154" fromTop="6" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBill.cs" caret="265" fromTop="10" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/d:Properties/f:AssemblyInfo.cs" caret="1651" fromTop="35" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBillCalculator.cs" caret="8" fromTop="0" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="897" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="1245" fromTop="22" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:Customer.cs" caret="156" fromTop="6" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="1598" fromTop="18" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBill.cs" caret="267" fromTop="10" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBillCalculator.cs" caret="126" fromTop="6" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="1739" fromTop="28" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="1611" fromTop="18" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="0" fromTop="0" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="2739" fromTop="35" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="1363" fromTop="19" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBillCalculator.cs" caret="377" fromTop="14" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBillCalculator.cs" caret="404" fromTop="19" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="844" fromTop="17" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="780" fromTop="17" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="749" fromTop="19" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="428" fromTop="14" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="1611" fromTop="35" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="2292" fromTop="35" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="2715" fromTop="32" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="2428" fromTop="22" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="2549" fromTop="26" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="893" fromTop="23" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBillCalculator.cs" caret="435" fromTop="16" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="1229" fromTop="23" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="1903" fromTop="28" />
+      <File id="5968645A-313F-45BA-A4EB-93432D85CDC4/f:CreditCardInterestCalculatorTest.cs" caret="536" fromTop="18" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/d:Properties/f:AssemblyInfo.cs" caret="1651" fromTop="35" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBillCalculator.cs" caret="1413" fromTop="18" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBillCalculator.cs" caret="1094" fromTop="11" />
+      <File id="A3277C01-0384-48B0-A32F-C7DE916FE526/f:PhoneBillCalculator.cs" caret="532" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsNotNull`0" priority="1" />
+      <Item value="AreSame`0" priority="0" />
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="target" priority="0" />
+      <Item value="TestMethodAttribute`0" priority="2" />
+      <Item value="TestMethod" priority="1" />
+      <Item value="public" priority="2" />
+      <Item value="void" priority="1" />
+      <Item value="CreditCardInterestCalculator`0" priority="0" />
+      <Item value="new" priority="3" />
+      <Item value="CreditCardInterestCalculator" priority="0" />
+      <Item value="calculator" priority="0" />
+      <Item value="CalculateInterest_WithCustomerTypeAsBronze_ApplyBronzeInterestRate`0" priority="0" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="creditCardBill" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="CreditCardBill" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="CustomerType" priority="0" />
+      <Item value="customer" priority="8" />
+      <Item value="double" priority="0" />
+      <Item value="BilledAmount" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="generateBill" priority="4" />
+      <Item value="else" priority="0" />
+      <Item value="AwayFromZero" priority="1" />
+      <Item value="phoneBill" priority="0" />
+      <Item value="Math`0" priority="0" />
+      <Item value="MockRepository`0" priority="1" />
+      <Item value="Customer`0" priority="0" />
+      <Item value="billCalculator" priority="3" />
+      <Item value="assembly" priority="1" />
+      <Item value="InternalsVisibleTo" priority="1" />
+      <Item value="PhoneBill`0" priority="0" />
+      <Item value="PhoneBill" priority="0" />
+      <Item value="expectedBill" priority="1" />
+      <Item value="virtual" priority="1" />
+      <Item value="CreatePhoneBillCalculator`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PartialMocksExample.Customer">
+      <Item value="CustomerType" priority="1" />
+      <Item value="BilledAmount" priority="1" />
+      <Item value="Expect`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PartialMocksExample.PhoneBill">
+      <Item value="DiscountedAmount" priority="2" />
+      <Item value="TotalDueAmount" priority="0" />
+      <Item value="BilledAmount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Round`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GeneratePartialMock`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PartialMocksExample.PhoneBillCalculator">
+      <Item value="Expect`2" priority="2" />
+      <Item value="GetGenerateBillWithDefaultValues`0" priority="0" />
+      <Item value="CalculateDiscount`0" priority="0" />
+      <Item value="VerifyAllExpectations`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Return`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.RhinoMocks">
+      <Item value="StrongName" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

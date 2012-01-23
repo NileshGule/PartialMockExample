@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7fbf315e-0258-4973-a251-2b0e597f4fba" name="Nilesh@NILESH-PC 2012-01-23 17:53:34" runUser="Nilesh-PC\Nilesh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6c958e85-6a63-48d8-a96f-9b5871990356">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Nilesh_NILESH-PC 2012-01-23 17_53_34">
+      <DeploymentItem filename="E:\Nilesh\Projects\PartialMocksExample\packages\RhinoMocks.3.6\lib\Rhino.Mocks.dll" />
+      <DeploymentItem filename="E:\Nilesh\Projects\PartialMocksExample\PartialMocksExample\bin\Debug\PartialMocksExample.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-01-23T17:53:34.5027915+08:00" queuing="2012-01-23T17:53:37.0759386+08:00" start="2012-01-23T17:53:37.1729442+08:00" finish="2012-01-23T17:53:39.9551033+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GenerateBill_WithCustomerTypeAsCorporate_ApplyCorporateDiscountOnTotalBilledAmount" storage="e:\nilesh\projects\partialmocksexample\partialmocksexample.unittest\bin\debug\partialmocksexample.unittest.dll" id="17cad39f-d697-b32d-270d-2de556ea6462">
+      <Execution id="f0ae7036-6fb9-45b7-b810-623b53f3d21f" />
+      <TestMethod codeBase="E:/Nilesh/Projects/PartialMocksExample/PartialMocksExample.UnitTest/bin/Debug/PartialMocksExample.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PartialMocksExample.UnitTest.PhoneBillCalculatorTest, PartialMocksExample.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateBill_WithCustomerTypeAsCorporate_ApplyCorporateDiscountOnTotalBilledAmount" />
+    </UnitTest>
+    <UnitTest name="GenerateBill_WithCustomer_GeneratesBill" storage="e:\nilesh\projects\partialmocksexample\partialmocksexample.unittest\bin\debug\partialmocksexample.unittest.dll" id="44a49cb1-8ba4-94fe-a4ee-5cab7a154013">
+      <Execution id="79145a25-8ac8-43d7-9c8a-3b4e60536a65" />
+      <TestMethod codeBase="E:/Nilesh/Projects/PartialMocksExample/PartialMocksExample.UnitTest/bin/Debug/PartialMocksExample.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PartialMocksExample.UnitTest.PhoneBillCalculatorTest, PartialMocksExample.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateBill_WithCustomer_GeneratesBill" />
+    </UnitTest>
+    <UnitTest name="GenerateBill_WithCustomerTypeAsNormal_ApplyNoDiscountOnTotalBilledAmount" storage="e:\nilesh\projects\partialmocksexample\partialmocksexample.unittest\bin\debug\partialmocksexample.unittest.dll" id="239aafd1-9b50-e7ea-beff-29bc1920df68">
+      <Execution id="af552ff6-ddf5-448d-81f1-12c46b7dab62" />
+      <TestMethod codeBase="E:/Nilesh/Projects/PartialMocksExample/PartialMocksExample.UnitTest/bin/Debug/PartialMocksExample.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PartialMocksExample.UnitTest.PhoneBillCalculatorTest, PartialMocksExample.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateBill_WithCustomerTypeAsNormal_ApplyNoDiscountOnTotalBilledAmount" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="17cad39f-d697-b32d-270d-2de556ea6462" executionId="f0ae7036-6fb9-45b7-b810-623b53f3d21f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="239aafd1-9b50-e7ea-beff-29bc1920df68" executionId="af552ff6-ddf5-448d-81f1-12c46b7dab62" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="44a49cb1-8ba4-94fe-a4ee-5cab7a154013" executionId="79145a25-8ac8-43d7-9c8a-3b4e60536a65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f0ae7036-6fb9-45b7-b810-623b53f3d21f" testId="17cad39f-d697-b32d-270d-2de556ea6462" testName="GenerateBill_WithCustomerTypeAsCorporate_ApplyCorporateDiscountOnTotalBilledAmount" computerName="NILESH-PC" duration="00:00:00.2223829" startTime="2012-01-23T17:53:37.2259472+08:00" endTime="2012-01-23T17:53:39.7570920+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f0ae7036-6fb9-45b7-b810-623b53f3d21f">
+    </UnitTestResult>
+    <UnitTestResult executionId="af552ff6-ddf5-448d-81f1-12c46b7dab62" testId="239aafd1-9b50-e7ea-beff-29bc1920df68" testName="GenerateBill_WithCustomerTypeAsNormal_ApplyNoDiscountOnTotalBilledAmount" computerName="NILESH-PC" duration="00:00:00.0013038" startTime="2012-01-23T17:53:39.7680926+08:00" endTime="2012-01-23T17:53:39.7750930+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="af552ff6-ddf5-448d-81f1-12c46b7dab62">
+    </UnitTestResult>
+    <UnitTestResult executionId="79145a25-8ac8-43d7-9c8a-3b4e60536a65" testId="44a49cb1-8ba4-94fe-a4ee-5cab7a154013" testName="GenerateBill_WithCustomer_GeneratesBill" computerName="NILESH-PC" duration="00:00:00.0746605" startTime="2012-01-23T17:53:39.7840935+08:00" endTime="2012-01-23T17:53:39.8640981+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="79145a25-8ac8-43d7-9c8a-3b4e60536a65">
+    </UnitTestResult>
+  </Results>
+</TestRun>
